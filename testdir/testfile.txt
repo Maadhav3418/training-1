@@ -1,1 +1,2 @@
 Adding new test file
+Welcome to GIT class
