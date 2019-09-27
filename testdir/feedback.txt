@@ -1,7 +1,7 @@
 Feedback form for : srike
  name : pramod
 enter the trainers name : srike
-what does your trainer teach? : devops
+what does your trainer teach? : devopa
 These are the rating from : pramod
 Trainer's technical knowledge
 Trainer's ability to impart knowledge to students : 5
