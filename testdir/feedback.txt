@@ -1,0 +1,10 @@
+Feedback form for : sf
+ name : sf
+enter the trainers name : sf
+what does your trainer teach? : sf
+These are the rating from : sf
+Trainer's technical knowledge
+Trainer's ability to impart knowledge to students : fs
+testdir/test.sh: needs merge
+[srike f2351f1] test file
+Branch 'srike' set up to track remote branch 'srike' from 'origin'.
