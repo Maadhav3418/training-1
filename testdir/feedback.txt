@@ -1,4 +1,4 @@
-Feedback form for : srikanth
+Feedback form for : srikanth given by pramod
  name : pramod
 enter the trainers name : srikanth
 what does your trainer teach? : devops
@@ -7,4 +7,4 @@ Trainer's technical knowledge : very good
 Trainer's ability to impart knowledge to students : very good
 Is trainer covering the portion at the right pace? : yes
 in which area do you think the trainer should improve? :  no comments
-Overall comments on the trainer :  no comments
+Overall comments on the trainer :  excellent trainer
