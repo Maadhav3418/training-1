@@ -1,7 +1,10 @@
-Feedback form for : SRIKE
- name : prMOD
-enter the trainers name : SRIKE
-what does your trainer teach? : deops
-These are the rating from : prMOD
-Trainer's technical knowledge
+Feedback form for : srikanth
+ name : pramod
+enter the trainers name : srikanth
+what does your trainer teach? : devops
+These are the rating from : pramod
+Trainer's technical knowledge : 5
 Trainer's ability to impart knowledge to students : 5
+Is trainer covering the portion at the right pace? : yes
+in which area do you think the trainer should improve? :  not required,he is good
+Overall comments on the trainer :  excellent trainer,hope he get us a job with his contacts at various companies[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Ds us [B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C a job with the help of his contacts at various companies
