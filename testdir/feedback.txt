@@ -1,7 +1,7 @@
-Feedback form for : srike
- name : pramod
-enter the trainers name : srike
-what does your trainer teach? : devops
-These are the rating from : pramod
+Feedback form for : dw
+ name : d
+enter the trainers name : dw
+what does your trainer teach? : we
+These are the rating from : d
 Trainer's technical knowledge
-Trainer's ability to impart knowledge to students : 5
+Trainer's ability to impart knowledge to students : we
