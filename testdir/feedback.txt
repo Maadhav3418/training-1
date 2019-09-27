@@ -8,3 +8,18 @@ Trainer's ability to impart knowledge to students : very good
 Is trainer covering the portion at the right pace? : yes
 in which area do you think the trainer should improve? :  no comments
 Overall comments on the trainer :  excellent trainer
+Your branch is up to date with 'origin/srike'.
+On branch srike
+Your branch is up to date with 'origin/srike'.
+
+nothing to commit, working tree clean
+Feedback form for : srikanth given by pramod1
+ name : pramod1
+enter the trainers name : srikanth
+what does your trainer teach? : devops
+These are the rating from : pramod1
+Trainer's technical knowledge : good
+Trainer's ability to impart knowledge to students : good
+Is trainer covering the portion at the right pace? : yes
+in which area do you think the trainer should improve? :  no comments
+Overall comments on the trainer :  excellent trainer

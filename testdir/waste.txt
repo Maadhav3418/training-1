@@ -1,0 +1,2 @@
+Branch 'srike' set up to track remote branch 'srike' from 'origin'.
+Everything up-to-date
