@@ -1,0 +1,22 @@
+Feedback form for : Srikanth
+Feedback given by : Nikhil
+Enter the Course name : DevOps
+Trainer's technical knowledge : Very Skillfull
+Trainer's technical comunnication to the Trainee : Very good
+Area of improvement of the Trainer : there is no [D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[CTrainer is very talented and has very good hands on.
+Will you recommend the Trainer for your Friends or Colleagues : Yes
+Overall rating for the Trainer out of 10 : 10
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+Feedback form for : Srikanth
+Feedback given by : Nikhil Kashyap
+Enter the Course name : Devops
+Trainer's technical knowledge : Very Skillfull
+Trainer's technical comunnication to the Trainee : Very Good
+Area of improvement of the Trainer : Trainer is very talented and has very good hands on.
+Will you recommend the Trainer for your Friends or Colleagues : Yes
+Overall rating for the Trainer out of 10 : 10
