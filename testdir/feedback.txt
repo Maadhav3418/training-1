@@ -23,3 +23,19 @@ Trainer's ability to impart knowledge to students : good
 Is trainer covering the portion at the right pace? : yes
 in which area do you think the trainer should improve? :  no comments
 Overall comments on the trainer :  excellent trainer
+M	testdir/feedback.txt
+Your branch is up to date with 'origin/srike'.
+[srike c34614c] test file
+ 2 files changed, 17 insertions(+)
+ create mode 100644 testdir/waste.txt
+Branch 'srike' set up to track remote branch 'srike' from 'origin'.
+Feedback form for : Pramod given by Srikanth
+ name : Srikanth
+enter the trainers name : Pramod
+what does your trainer teach? : DevOps
+These are the rating from : Srikanth
+Trainer's technical knowledge : Good
+Trainer's ability to impart knowledge to students : Good
+Is trainer covering the portion at the right pace? : Yes
+in which area do you think the trainer should improve? :  Cloud
+Overall comments on the trainer :  Good
